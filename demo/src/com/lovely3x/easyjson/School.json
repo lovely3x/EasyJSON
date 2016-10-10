@@ -1,0 +1,65 @@
+{
+  "name": "重庆大学",
+  "classes": [
+    {
+      "id": 1,
+      "name": "一班",
+      "students": [
+        {
+          "name": "张三",
+          "age": 24,
+          "sex": 1,
+          "married": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "一班",
+      "students": [
+        {
+          "name": "李四",
+          "age": 24,
+          "sex": 1,
+          "married": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "一班",
+      "students": [
+        {
+          "name": "王五",
+          "age": 24,
+          "sex": 1,
+          "married": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "一班",
+      "students": [
+        {
+          "name": "赵六",
+          "age": 24,
+          "sex": 1,
+          "married": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "一班",
+      "students": [
+        {
+          "name": "田七",
+          "age": 24,
+          "sex": 1,
+          "married": true
+        }
+      ]
+    }
+  ]
+}
