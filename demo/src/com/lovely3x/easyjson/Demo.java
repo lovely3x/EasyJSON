@@ -59,7 +59,7 @@ public class Demo {
         School school = new School(
                 "南山幼儿园",
                 Collections.singletonList(
-                        new Class(1, "张三", Collections.singletonList(
+                        new Class(1, "大班", Collections.singletonList(
                                 new Student("张三", 24, 1, true)))));
 
         JSONObject jo = new JSONObject(school);
